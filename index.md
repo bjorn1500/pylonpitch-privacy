@@ -65,23 +65,34 @@ Pylon Pitch is not directed at children under 13, and we do not knowingly collec
 
 ## 6. Your rights
 
-Because your game data stays on your device, you control it directly: uninstall the game or clear its storage to delete it. For data processed by the advertising partners, use the choices above or contact those partners via their policies. Under the GDPR and similar laws you may also contact us with any question or request about your data; we respond within 30 days.
+Because your game data stays on your device, you control it directly. For data processed by the advertising partners, use the choices above or contact those partners via their policies. Under the GDPR and similar laws you may also contact us with any question or request about your data; we respond within 30 days. To delete your data, see the next section.
 
 ---
 
-## 7. Security
+## 7. Deleting your data
+
+Pylon Pitch has no accounts, and Fontaine Software keeps no copy of your data on any server, so nothing about you is stored by us. You can delete your data like this:
+
+1. **Game data on your phone** (profile, progress, coins, settings): uninstall Pylon Pitch, or go to Android **Settings > Apps > Pylon Pitch > Storage > Clear storage**. This deletes it immediately and permanently.
+2. **Advertising data** held by Unity (LevelPlay, ironSource and Unity Ads): tap the **Data Privacy** icon on a Unity ad to see the data collected about your device, opt out of further collection and request deletion of past data. You can also email Unity's Data Protection Officer at [DPO@unity3d.com](mailto:DPO@unity3d.com), mentioning that your request is about ads in Pylon Pitch. Resetting or deleting your advertising ID in Android settings stops new ad data from being linked to old data.
+3. **Purchase records:** Google Play keeps the record of your Remove Ads purchase under Google's privacy policy, so the purchase can be restored. Unity's In-App Purchasing records can be requested at [unity-iap-contact@unity3d.com](mailto:unity-iap-contact@unity3d.com).
+4. **Need help?** Email [fontaine-software@outlook.com](mailto:fontaine-software@outlook.com) with the subject "Pylon Pitch data deletion". We reply within 30 days and help you pass the request on to the partners above.
+
+---
+
+## 8. Security
 
 Game data stays in the app's private storage on your device. The advertising and Google Play services communicate over encrypted connections (HTTPS/TLS).
 
 ---
 
-## 8. Changes to this policy
+## 9. Changes to this policy
 
 If this policy changes, we will update it on this page and change the date at the top.
 
 ---
 
-## 9. Contact
+## 10. Contact
 
 - **App:** Pylon Pitch
 - **Developer:** Fontaine Software
