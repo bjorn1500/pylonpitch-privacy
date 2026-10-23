@@ -23,10 +23,11 @@ Pylon Pitch is free and shows ads: an occasional full-screen ad between matches,
 
 To show and measure ads, cap how often you see them and prevent fraud, these services may collect from your device:
 
-- device identifiers, such as the **advertising ID** of your device;
+- device identifiers, such as the **advertising ID** of your device, and identifiers the ad services assign to your app install;
 - your IP address and the approximate location (country or region) derived from it;
-- device and app information, such as phone model, operating system, language, and app version;
-- information about the ads you see and tap.
+- device and app information, such as phone model, operating system, language, app version and diagnostic data;
+- information about the ads you see and tap, and how long you use the app;
+- your in-app purchase history (for example whether you bought Remove Ads), to measure and tailor ads.
 
 **Your choice:** the first time you open the game we ask whether ads may be personalised. If you say no, the ad partners are told you did not consent (GDPR) and that your data may not be sold or shared (US state privacy laws), and you get non-personalised ads. You can change this at any time in **Settings > Personalised ads**. You can also reset or delete your advertising ID in your Android settings (Settings > Privacy > Ads, or Settings > Google > Ads).
 
@@ -45,7 +46,9 @@ You can buy **Remove Ads** once to stop ads; rewards from rewarded ads can then 
 - the game only receives confirmation from Google Play that you own Remove Ads, and remembers that on your device;
 - Google Play can restore the purchase on a new device signed in to the same Google account (Settings > Restore purchases).
 
-Google's privacy policy applies to the payment: <https://policies.google.com/privacy>
+The game talks to Google Play through **Unity In-App Purchasing** (Unity Technologies). To make purchases work and to check that they do, it processes the purchase and your purchase history, device identifiers, your approximate location, and crash, diagnostic and performance data; your Google account's email address may pass through it briefly during a purchase without being stored. Unity In-App Purchasing does not use this data for advertising.
+
+Google's privacy policy applies to the payment: <https://policies.google.com/privacy>. Unity's privacy policy applies to Unity In-App Purchasing: <https://unity.com/legal/privacy-policy>.
 
 ---
 
